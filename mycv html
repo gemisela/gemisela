@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum vitae</title>
+</head>
+<body>
+    <h1>Curriculum vitae</h1>
+  <h2>Identité: </h2> <img src="IMG/gemie.jpg" width="200" title="Masela" alt="">
+    <p>
+        Nom:Masela <br>
+        Postnom:Kaya <br>
+        Prenom:Gemima <br>
+        Sexe:Féminin <br>
+        Etat civil:Célibataire <br>
+        Nationalité:congolaise <br> 
+        Profession:Etudiante <br>
+        Numéro:+243 973834206 <br>
+        Numéro:+243 973834206 <br>
+        Adress:06,Av.Mpey,Q/ masanga mbila c/Mont ngafula <br>
+        Nom du Père:Kandja Dieudonnée <br>
+        Nom de la mère:Ntumba Mamie <br>
+   <ol>
+   <h2>Etudes Faites </h2>
+       <li>Primaire:Ep Msr Kimbondo</li>
+       <li>Humanitaire:Collège Pièrre Bouvet</li>
+       <li>Universitaire:Université De Kinshasa</li>  
+</ol>
+<h2>Langues parlées</h2>
+       Français, Anglais, Lingala   
+
+  
+    </p>     
+</p>     
+
+</body>
+</html>
+
